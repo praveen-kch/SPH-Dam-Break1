@@ -21,7 +21,7 @@ public class MainClass {
 		 */
 		System.out.print(new Timestamp(System.currentTimeMillis()));
 		System.out.println("  :Calling the Run Method of Emulator Class");		
-
+		Emulator.run(0);
 
 
 		
