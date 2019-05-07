@@ -51,9 +51,9 @@ Package in.pkc.sph
 	  Class: SmoothFuncs
 	    It defines two methods
 	    computeDensity
-	      To compute the density by using a smoothing function after updating the state variable particle Velocity and positions
+	      	To compute the density by using a smoothing function after updating the state variable particle Velocity and positions
 	    computeAcceleration
-	      To compute the paticle acceleration by using a smoothing function after updating the state variable particle Velocity and               positions
+	      	To compute the paticle acceleration by using a smoothing function after updating the state variable particle Velocity 			and positions
 	  
 	  Class Dambreak0
 	      it implements the interface FluidSpreader to make initial conditions of a dam break problem
